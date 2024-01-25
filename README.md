@@ -89,6 +89,7 @@ Here are some ideas to get you started:
 
 <details>
   <summary><img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 18px> &nbsp;<b> GitHub Profile Stats</b></summary>
+  <br/>
    <div>
       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tariqkhan051&show_icons=true&locale=en&layout=compact" alt="tariqkhan051" />
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=tariqkhan051&show_icons=true&locale=en" alt="tariqkhan051" />
