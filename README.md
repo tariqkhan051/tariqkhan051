@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 &nbsp;
 
 **About me**
-- 🔭 I’m currently working on [BlazeKitHub](https://github.com/tariqkhan051BlazeKitHub) and [it's api](https://github.com/tariqkhan051/blaze-kit-hub-api)
+- 🔭 I’m currently working on [BlazeKitHub](https://github.com/tariqkhan051/BlazeKitHub) and [it's api](https://github.com/tariqkhan051/blaze-kit-hub-api)
 - 🌱 I’m currently learning Generative AI and Cloud Computing
 - ⚡️ Fun facts: I like snacks and cookiees more than Pizza and fries.
 - 📫 How to reach me: tariqkhan051@outlook.com
