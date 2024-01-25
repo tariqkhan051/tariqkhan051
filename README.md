@@ -28,9 +28,8 @@ Here are some ideas to get you started:
 **About me**
 - 🔭 I’m currently working on [BlazeKitHub](https://github.com/tariqkhan051/BlazeKitHub) and [it's api](https://github.com/tariqkhan051/blaze-kit-hub-api)
 - 🌱 I’m currently learning Generative AI and Cloud Computing
-- ⚡️ Fun facts: I like snacks and cookiees more than Pizza and fries.
+- ⚡️ Fun facts: I like 🍪 and ☕ more than 🍕 and 🍟
 - 📫 How to reach me: tariqkhan051@outlook.com
-- 
 
 **Expand to view**
 <details>
