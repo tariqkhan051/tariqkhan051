@@ -1,4 +1,4 @@
-<h3> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm Tariq </h3>
+<h1> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm Tariq </h1>
 
 <!--
 **tariqkhan051/tariqkhan051** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>Senior Software Developer from Pakistan, currently living in Dubai</h1>
+<h3>Senior Software Developer from Pakistan, currently living in Dubai</h3>
 
 **About me**
 - 🔭 I’m currently working on [BlazeKitHub](https://github.com/tariqkhan051/BlazeKitHub) and [it's api](https://github.com/tariqkhan051/blaze-kit-hub-api)
