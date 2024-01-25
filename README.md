@@ -1,4 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm Tariq
 
 <!--
 **tariqkhan051/tariqkhan051** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,21 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-***I'm Tariq Khan, a Computer Engineer 🚀 from Pakistan and currently living in Dubai, UAE***
-
-**Connect With Me**
-
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/tariqkhan051)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tariqkhan051/)
-<img src="https://komarev.com/ghpvc/?username=tariqkhan051&label=Profile%20views&color=red&style=flat" alt="profileviews" />
-<img src="https://badges.pufler.dev/visits/taruqkhan051/tariqkhan051?color=black&logo=github" />
-&nbsp;
+***Senior Software Developer from Pakistan, currently living in Dubai***
 
 **About me**
 - 🔭 I’m currently working on [BlazeKitHub](https://github.com/tariqkhan051/BlazeKitHub) and [it's api](https://github.com/tariqkhan051/blaze-kit-hub-api)
 - 🌱 I’m currently learning Generative AI and Cloud Computing
 - ⚡️ Fun facts: I like 🍪 and ☕ more than 🍕 and 🍟
 - 📫 How to reach me: tariqkhan051@outlook.com
+
+**Connect With Me**
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/tariqkhan051)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tariqkhan051/)
+&nbsp;
 
 **Expand to view**
 <details>
@@ -95,3 +93,6 @@ Here are some ideas to get you started:
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tariqkhan051&" alt="tariqkhan051" />
   </div>
 </details>
+
+![Profile Views](https://komarev.com/ghpvc/?username=tariqkhan051&label=PROFILE+VIEWS&color=red&style=flat&abbreviated=true)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=tariqkhan051.tariqkhan051&format=true)
