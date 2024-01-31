@@ -53,8 +53,6 @@ Starting from December 2023, I am more interested in Generative AI and looking f
   ![Django](https://img.shields.io/badge/Django-092E20.svg?&style=flat&logo=django&logoColor=white)&nbsp;
   ![ECMAScript](https://img.shields.io/badge/ECMAScript-F7DF1E.svg?&style=flat&logo=javascript&logoColor=white)&nbsp;
   ![ESLint](https://img.shields.io/badge/ESLint-4B32C3.svg?&style=flat&logo=eslint&logoColor=white)&nbsp;
-  ![VSCode](https://img.shields.io/badge/VSCode-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
-  ![VisualStudio](https://img.shields.io/badge/VisualStudio-007ACC.svg?&style=flat&logo=visual-studio)&nbsp;
   ![Postman](https://img.shields.io/badge/Postman-F05033.svg?&style=flat&logo=postman&logoColor=white)&nbsp;
 
   Front-end: <br/>
@@ -78,11 +76,16 @@ Starting from December 2023, I am more interested in Generative AI and looking f
   
   Cloud: <br/>
   ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white)&nbsp;
+  ![Azure](https://img.shields.io/badge/Azure-0078D7.svg?&style=flat&logo=azure-devops&logoColor=white)&nbsp;
 
   Version Control: <br/>
   ![Git](https://img.shields.io/badge/Git-F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
   ![GitHub](https://img.shields.io/badge/GitHub-121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
   ![Bitbucket](https://img.shields.io/badge/Bitbucket-2684FF.svg?&style=flat&logo=bitbucket&logoColor=white)&nbsp;
+
+  IDE and Code Editors: <br/>
+  ![VSCode](https://img.shields.io/badge/VSCode-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
+  ![VisualStudio](https://img.shields.io/badge/VisualStudio-007ACC.svg?&style=flat&logo=visual-studio)&nbsp;
   
 </details>
 
