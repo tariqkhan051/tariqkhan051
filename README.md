@@ -5,7 +5,6 @@
 <h4>My story so far...</h4>
 
 -----
-<hr>
 
 My journey kicked off with the classic ```Hello World``` in C language in 2012, followed by my first Android app during my FYP in 2015.
 
@@ -35,7 +34,8 @@ Starting from December 2023, I am more interested in Generative AI and looking f
   <summary><b>:computer: &nbsp;What I have worked on</b></summary>
   <br/>
 
-  Programming Languages: ![C#](https://img.shields.io/badge/C%23-239120.svg?&style=flat&logo=csharp&logoColor=white)&nbsp;
+  Programming Languages: <br/>
+  ![C#](https://img.shields.io/badge/C%23-239120.svg?&style=flat&logo=csharp&logoColor=white)&nbsp;
   ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat&logo=javascript&logoColor=black)&nbsp;
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?&style=flat&logo=typescript&logoColor=white)&nbsp;
@@ -57,7 +57,7 @@ Starting from December 2023, I am more interested in Generative AI and looking f
   ![VisualStudio](https://img.shields.io/badge/VisualStudio-007ACC.svg?&style=flat&logo=visual-studio)&nbsp;
   ![Postman](https://img.shields.io/badge/Postman-F05033.svg?&style=flat&logo=postman&logoColor=white)&nbsp;
 
-  Front-end:
+  Front-end: <br/>
   ![Blazor](https://img.shields.io/badge/Blazor-512BD4.svg?&style=flat&logo=blazor&logoColor=white)&nbsp;
   ![Angular](https://img.shields.io/badge/Angular-DD0031.svg?&style=flat&logo=angular&logoColor=white)&nbsp;
   ![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB.svg?&style=flat&logo=react&logoColor=white)&nbsp;
@@ -71,25 +71,26 @@ Starting from December 2023, I am more interested in Generative AI and looking f
 
   Databases: <br/>
   ![SQL](https://img.shields.io/badge/SQL-339933.svg?&style=flat&logo=microsoft-sql-server&logoColor=white)&nbsp;
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?&style=flat&logo=mongodb&logoColor=white)&nbsp;
   ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=flat&logo=oracle&logoColor=white)&nbsp;
   ![Postgres](https://img.shields.io/badge/PostgreSQL-336791.svg?&style=flat&logo=postgresql&logoColor=white)&nbsp;
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?&style=flat&logo=mongodb&logoColor=white)&nbsp;
   ![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?&style=flat&logo=sqlite&logoColor=white)&nbsp;
   
-  Cloud: <hr>
+  Cloud: <br/>
   ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white)&nbsp;
 
   Version Control: <br/>
   ![Git](https://img.shields.io/badge/Git-F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
   ![GitHub](https://img.shields.io/badge/GitHub-121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
-  ![Bitbucket](https://img.shields.io/badge/Bitbucket-blue?&style=flat&logo=bitbucket)&nbsp;
+  ![Bitbucket](https://img.shields.io/badge/Bitbucket-2684FF.svg?&style=flat&logo=bitbucket&logoColor=white)&nbsp;
   
 </details>
 
 <details>
   <summary><b>:brain: &nbsp;What I want to learn</b></summary>
   <br/>
-
+  
+![Go Lang](https://img.shields.io/badge/GoLang-00AED9.svg?&style=flat&logo=go&logoColor=white)&nbsp;
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098.svg?&style=flat&logo=graphql&logoColor=white)&nbsp;
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?&style=flat&logo=firebase&logoColor=black)&nbsp;
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E.svg?&style=flat&logo=nestjs&logoColor=white)&nbsp;
