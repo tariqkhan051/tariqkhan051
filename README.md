@@ -3,7 +3,10 @@
 <h3>Senior Software Developer from Pakistan, currently living in Dubai</h3>
 
 <h4>My story so far...</h4>
+
 -----
+<hr>
+
 My journey kicked off with the classic ```Hello World``` in C language in 2012, followed by my first Android app during my FYP in 2015.
 
 After earning a degree in Computer Engineering from SSUET, in year 2016 I joined a company, embarking on a role as a Software Developer focused on backend development and databases. I got a chance to work for several industries such as E-commerce, Supply-Chain, and Shipping. By the end of 2020, I started leading a team of developers. 😎
@@ -39,19 +42,11 @@ Starting from December 2023, I am more interested in Generative AI and looking f
   ![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
   ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5.svg?&style=flat&logo=kotlin&logoColor=white)&nbsp;
 
-  Frameworks and Tools:
+  Frameworks and Tools: <br/>
   ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?&style=flat&logo=dotnet&logoColor=white)&nbsp;
   ![NodeJS](https://img.shields.io/badge/NodeJS-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;
   ![ExpressJS](https://img.shields.io/badge/ExpressJS-000000.svg?&style=flat&logo=express&logoColor=white)&nbsp;
   ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4.svg?&style=flat&logo=dotnet&logoColor=white)&nbsp;
-  ![Blazor](https://img.shields.io/badge/Blazor-512BD4.svg?&style=flat&logo=blazor&logoColor=white)&nbsp;
-  ![Angular](https://img.shields.io/badge/Angular-DD0031.svg?&style=flat&logo=angular&logoColor=white)&nbsp;
-  ![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB.svg?&style=flat&logo=react&logoColor=white)&nbsp;
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=flat&logo=bootstrap&logoColor=white)&nbsp;
-  ![jQuery](https://img.shields.io/badge/jQuery-0769AD.svg?&style=flat&logo=jquery&logoColor=white)&nbsp;
-  ![ReactNative](https://img.shields.io/badge/ReactNative-61DAFB.svg?&style=flat&logo=react&logoColor=white)&nbsp;
   ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=docker&logoColor=white)&nbsp;
   ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?&style=flat&logo=kubernetes&logoColor=white)&nbsp;
   ![MVC Architecture](https://img.shields.io/badge/MVC-888888.svg?&style=flat&logoColor=white)&nbsp;
@@ -62,20 +57,32 @@ Starting from December 2023, I am more interested in Generative AI and looking f
   ![VisualStudio](https://img.shields.io/badge/VisualStudio-007ACC.svg?&style=flat&logo=visual-studio)&nbsp;
   ![Postman](https://img.shields.io/badge/Postman-F05033.svg?&style=flat&logo=postman&logoColor=white)&nbsp;
 
+  Front-end:
+  ![Blazor](https://img.shields.io/badge/Blazor-512BD4.svg?&style=flat&logo=blazor&logoColor=white)&nbsp;
+  ![Angular](https://img.shields.io/badge/Angular-DD0031.svg?&style=flat&logo=angular&logoColor=white)&nbsp;
+  ![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB.svg?&style=flat&logo=react&logoColor=white)&nbsp;
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=flat&logo=bootstrap&logoColor=white)&nbsp;
+  ![jQuery](https://img.shields.io/badge/jQuery-0769AD.svg?&style=flat&logo=jquery&logoColor=white)&nbsp;
+  
+  Mobile: <br/>
+  ![ReactNative](https://img.shields.io/badge/ReactNative-61DAFB.svg?&style=flat&logo=react&logoColor=white)&nbsp;  
 
-  Databases:
+  Databases: <br/>
   ![SQL](https://img.shields.io/badge/SQL-339933.svg?&style=flat&logo=microsoft-sql-server&logoColor=white)&nbsp;
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?&style=flat&logo=mongodb&logoColor=white)&nbsp;
   ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=flat&logo=oracle&logoColor=white)&nbsp;
   ![Postgres](https://img.shields.io/badge/PostgreSQL-336791.svg?&style=flat&logo=postgresql&logoColor=white)&nbsp;
   ![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?&style=flat&logo=sqlite&logoColor=white)&nbsp;
-
-  Cloud:
+  
+  Cloud: <hr>
   ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white)&nbsp;
 
-  Version Control:
+  Version Control: <br/>
   ![Git](https://img.shields.io/badge/Git-F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
   ![GitHub](https://img.shields.io/badge/GitHub-121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
+  ![Bitbucket](https://img.shields.io/badge/Bitbucket-blue?&style=flat&logo=bitbucket)&nbsp;
   
 </details>
 
