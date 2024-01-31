@@ -17,10 +17,24 @@ Here are some ideas to get you started:
 
 <h3>Senior Software Developer from Pakistan, currently living in Dubai</h3>
 
-**About me**
+<h4>My story so far</h4>
+
+My journey kicked off with the classic ```Hello World``` in C language in 2012, followed by my first Android app during my FYP in 2015.
+
+After earning a degree in Computer Engineering from SSUET, in year 2016 I joined a company, embarking on a role as a Software Developer focused on backend development and databases. I got a chance to work for several industries such as E-commerce, Supply-Chain, and Shipping. By the end of 2020, I started leading a team of developers. 😎
+
+During my 8-year professional career, I navigated the software development life cycle, encompassing project planning, timelines management, research, analysis, team collaborations, meetings, development, testing, documentation, deliveries, and deployments.
+
+Apart from the 9 to 5 routine, I delved into various programming languages, frameworks, and industry trends. This exploration led to freelance projects, including the development of Android Apps, Automation Tools and Desktop Apps.
+
+Starting from December 2023, I am more interested in Generative AI and looking for new opprtunites. I am open to open-source contributions, I blend experience, skills, and curiosity to contribute to shaping the future of technology.
+
+**More About Me**
 - 🔭 I’m currently working on [BlazeKitHub](https://github.com/tariqkhan051/BlazeKitHub) and [it's api](https://github.com/tariqkhan051/blaze-kit-hub-api)
 - 🌱 I’m currently learning Generative AI and Cloud Computing
-- ⚡️ Fun facts: I like 🍪 and ☕ more than 🍕 and 🍟
+- ⚡️ Fun fact # 1: I like 🍪 and ☕ more than 🍕 and 🍟
+- ✈️ Fun fact # 2: I've traveled to 3 countries and explored more than 10 cities
+- 🎮 Fun fact # 3: I am into competitive gaming
 - 📫 How to reach me: tariqkhan051@outlook.com
 
 **Connect With Me**
