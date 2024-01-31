@@ -1,24 +1,9 @@
 <h1> Hi, I'm Tariq <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a></h1>
 
-<!--
-**tariqkhan051/tariqkhan051** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h3>Senior Software Developer from Pakistan, currently living in Dubai</h3>
 
-<h4>My story so far</h4>
-===
+<h4>My story so far...</h4>
+-----
 My journey kicked off with the classic ```Hello World``` in C language in 2012, followed by my first Android app during my FYP in 2015.
 
 After earning a degree in Computer Engineering from SSUET, in year 2016 I joined a company, embarking on a role as a Software Developer focused on backend development and databases. I got a chance to work for several industries such as E-commerce, Supply-Chain, and Shipping. By the end of 2020, I started leading a team of developers. 😎
@@ -53,7 +38,6 @@ Starting from December 2023, I am more interested in Generative AI and looking f
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?&style=flat&logo=typescript&logoColor=white)&nbsp;
   ![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
   ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5.svg?&style=flat&logo=kotlin&logoColor=white)&nbsp;
-
 
   Frameworks and Tools:
   ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?&style=flat&logo=dotnet&logoColor=white)&nbsp;
