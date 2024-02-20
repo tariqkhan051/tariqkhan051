@@ -1,6 +1,6 @@
 <h1> Hi, I'm Tariq <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a></h1>
 
-<h3>Senior Software Developer from Pakistan, currently living in Dubai</h3>
+<h3>Senior Software Developer from Pakistan</h3>
 
 <h4>My story so far...</h4>
 
